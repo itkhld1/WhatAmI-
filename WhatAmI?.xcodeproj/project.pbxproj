@@ -7,18 +7,51 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		770A31692D662F54001FB6B9 /* soundManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 770A31682D662F54001FB6B9 /* soundManager.swift */; };
+		770A316B2D6631B3001FB6B9 /* notify.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 770A316A2D6631B3001FB6B9 /* notify.mp3 */; };
+		771F336E2D4CF9AF005E1620 /* UserCategory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 771F336D2D4CF9AF005E1620 /* UserCategory.swift */; };
+		7728DF7F2D674E2F00898FC4 /* error.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7728DF7E2D674E2F00898FC4 /* error.mp3 */; };
+		7728DF812D6777B700898FC4 /* click.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7728DF802D6777B700898FC4 /* click.mp3 */; };
+		775CBC592D7270720017C57A /* click2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 775CBC582D7270720017C57A /* click2.wav */; };
+		776769102D47B6B600038A85 /* GetReadyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7767690F2D47B6B600038A85 /* GetReadyView.swift */; };
 		777B499F2D44FA58004C9AED /* WhatAmI_App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 777B499E2D44FA58004C9AED /* WhatAmI_App.swift */; };
-		777B49A12D44FA58004C9AED /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 777B49A02D44FA58004C9AED /* ContentView.swift */; };
 		777B49A32D44FA59004C9AED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 777B49A22D44FA59004C9AED /* Assets.xcassets */; };
 		777B49A62D44FA59004C9AED /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 777B49A52D44FA59004C9AED /* Preview Assets.xcassets */; };
+		777B49B32D450B3C004C9AED /* Sabien-1jYqv.otf in Resources */ = {isa = PBXBuildFile; fileRef = 777B49B22D450B3C004C9AED /* Sabien-1jYqv.otf */; };
+		777B49B72D451601004C9AED /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 777B49B62D451601004C9AED /* MainView.swift */; };
+		777B49BF2D452E3B004C9AED /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 777B49BE2D452E3B004C9AED /* InfoView.swift */; };
+		779929232D495BD00082F5E4 /* PlayAgain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 779929222D495BD00082F5E4 /* PlayAgain.swift */; };
+		779ADE232D46C51900EE26ED /* WordsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 779ADE222D46C51900EE26ED /* WordsView.swift */; };
+		779ADE252D46D23300EE26ED /* GameTimeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 779ADE242D46D23300EE26ED /* GameTimeView.swift */; };
+		77BB88722D510A0200B474D8 /* countdown.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 77BB88712D510A0200B474D8 /* countdown.mp3 */; };
+		77BB88742D510E1C00B474D8 /* ding.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 77BB88732D510E1B00B474D8 /* ding.mp3 */; };
+		77C082AD2D4C032800C47BB6 /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77C082AC2D4C032800C47BB6 /* Category.swift */; };
+		77F55B652D4A7B77005B63AF /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77F55B642D4A7B77005B63AF /* Launch Screen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		770A31682D662F54001FB6B9 /* soundManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = soundManager.swift; sourceTree = "<group>"; };
+		770A316A2D6631B3001FB6B9 /* notify.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = notify.mp3; sourceTree = "<group>"; };
+		771F336D2D4CF9AF005E1620 /* UserCategory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserCategory.swift; sourceTree = "<group>"; };
+		7728DF7E2D674E2F00898FC4 /* error.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = error.mp3; sourceTree = "<group>"; };
+		7728DF802D6777B700898FC4 /* click.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = click.mp3; sourceTree = "<group>"; };
+		775CBC582D7270720017C57A /* click2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = click2.wav; sourceTree = "<group>"; };
+		7767690F2D47B6B600038A85 /* GetReadyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetReadyView.swift; sourceTree = "<group>"; };
 		777B499B2D44FA58004C9AED /* WhatAmI?.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "WhatAmI?.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		777B499E2D44FA58004C9AED /* WhatAmI_App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhatAmI_App.swift; sourceTree = "<group>"; };
-		777B49A02D44FA58004C9AED /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		777B49A22D44FA59004C9AED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		777B49A52D44FA59004C9AED /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		777B49B12D4509C6004C9AED /* WhatAmI--Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "WhatAmI--Info.plist"; sourceTree = SOURCE_ROOT; };
+		777B49B22D450B3C004C9AED /* Sabien-1jYqv.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Sabien-1jYqv.otf"; sourceTree = "<group>"; };
+		777B49B62D451601004C9AED /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		777B49BE2D452E3B004C9AED /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
+		779929222D495BD00082F5E4 /* PlayAgain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayAgain.swift; sourceTree = "<group>"; };
+		779ADE222D46C51900EE26ED /* WordsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordsView.swift; sourceTree = "<group>"; };
+		779ADE242D46D23300EE26ED /* GameTimeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameTimeView.swift; sourceTree = "<group>"; };
+		77BB88712D510A0200B474D8 /* countdown.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = countdown.mp3; sourceTree = "<group>"; };
+		77BB88732D510E1B00B474D8 /* ding.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ding.mp3; sourceTree = "<group>"; };
+		77C082AC2D4C032800C47BB6 /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
+		77F55B642D4A7B77005B63AF /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +68,9 @@
 		777B49922D44FA58004C9AED = {
 			isa = PBXGroup;
 			children = (
+				77F55B642D4A7B77005B63AF /* Launch Screen.storyboard */,
+				77BB886E2D5109BA00B474D8 /* Sounds */,
+				777B49AE2D450991004C9AED /* CustomFonts */,
 				777B499D2D44FA58004C9AED /* WhatAmI? */,
 				777B499C2D44FA58004C9AED /* Products */,
 			);
@@ -51,8 +87,17 @@
 		777B499D2D44FA58004C9AED /* WhatAmI? */ = {
 			isa = PBXGroup;
 			children = (
+				777B49B12D4509C6004C9AED /* WhatAmI--Info.plist */,
+				770A31682D662F54001FB6B9 /* soundManager.swift */,
 				777B499E2D44FA58004C9AED /* WhatAmI_App.swift */,
-				777B49A02D44FA58004C9AED /* ContentView.swift */,
+				771F336D2D4CF9AF005E1620 /* UserCategory.swift */,
+				777B49B62D451601004C9AED /* MainView.swift */,
+				77C082AC2D4C032800C47BB6 /* Category.swift */,
+				7767690F2D47B6B600038A85 /* GetReadyView.swift */,
+				779ADE222D46C51900EE26ED /* WordsView.swift */,
+				777B49BE2D452E3B004C9AED /* InfoView.swift */,
+				779ADE242D46D23300EE26ED /* GameTimeView.swift */,
+				779929222D495BD00082F5E4 /* PlayAgain.swift */,
 				777B49A22D44FA59004C9AED /* Assets.xcassets */,
 				777B49A42D44FA59004C9AED /* Preview Content */,
 			);
@@ -65,6 +110,27 @@
 				777B49A52D44FA59004C9AED /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		777B49AE2D450991004C9AED /* CustomFonts */ = {
+			isa = PBXGroup;
+			children = (
+				777B49B22D450B3C004C9AED /* Sabien-1jYqv.otf */,
+			);
+			path = CustomFonts;
+			sourceTree = "<group>";
+		};
+		77BB886E2D5109BA00B474D8 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				77BB88712D510A0200B474D8 /* countdown.mp3 */,
+				77BB88732D510E1B00B474D8 /* ding.mp3 */,
+				770A316A2D6631B3001FB6B9 /* notify.mp3 */,
+				7728DF802D6777B700898FC4 /* click.mp3 */,
+				7728DF7E2D674E2F00898FC4 /* error.mp3 */,
+				775CBC582D7270720017C57A /* click2.wav */,
+			);
+			path = Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,7 +191,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7728DF812D6777B700898FC4 /* click.mp3 in Resources */,
 				777B49A62D44FA59004C9AED /* Preview Assets.xcassets in Resources */,
+				770A316B2D6631B3001FB6B9 /* notify.mp3 in Resources */,
+				775CBC592D7270720017C57A /* click2.wav in Resources */,
+				777B49B32D450B3C004C9AED /* Sabien-1jYqv.otf in Resources */,
+				77BB88742D510E1C00B474D8 /* ding.mp3 in Resources */,
+				7728DF7F2D674E2F00898FC4 /* error.mp3 in Resources */,
+				77F55B652D4A7B77005B63AF /* Launch Screen.storyboard in Resources */,
+				77BB88722D510A0200B474D8 /* countdown.mp3 in Resources */,
 				777B49A32D44FA59004C9AED /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,8 +211,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				777B49A12D44FA58004C9AED /* ContentView.swift in Sources */,
+				779ADE232D46C51900EE26ED /* WordsView.swift in Sources */,
+				771F336E2D4CF9AF005E1620 /* UserCategory.swift in Sources */,
+				779929232D495BD00082F5E4 /* PlayAgain.swift in Sources */,
+				779ADE252D46D23300EE26ED /* GameTimeView.swift in Sources */,
+				777B49B72D451601004C9AED /* MainView.swift in Sources */,
+				776769102D47B6B600038A85 /* GetReadyView.swift in Sources */,
 				777B499F2D44FA58004C9AED /* WhatAmI_App.swift in Sources */,
+				777B49BF2D452E3B004C9AED /* InfoView.swift in Sources */,
+				77C082AD2D4C032800C47BB6 /* Category.swift in Sources */,
+				770A31692D662F54001FB6B9 /* soundManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,13 +354,19 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"WhatAmI?/Preview Content\"";
+				DEVELOPMENT_TEAM = Z9697UVR8J;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "WhatAmI--Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "WhatAmI?";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.games";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen.storyboard";
+				INFOPLIST_KEY_UIRequiresFullScreen = NO;
+				INFOPLIST_KEY_UIStatusBarStyle = "";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -300,13 +388,19 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"WhatAmI?/Preview Content\"";
+				DEVELOPMENT_TEAM = Z9697UVR8J;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "WhatAmI--Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "WhatAmI?";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.games";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen.storyboard";
+				INFOPLIST_KEY_UIRequiresFullScreen = NO;
+				INFOPLIST_KEY_UIStatusBarStyle = "";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
