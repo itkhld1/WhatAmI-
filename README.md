@@ -42,26 +42,11 @@ An interactive and customizable word puzzle game built using **Swift**, **SwiftU
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Swift**
-- **SwiftUI**
-- **Xcode**
-- **MVVM Architecture**
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- macOS with Xcode 13 or later
-- Swift 5.5+
-- iOS 14.0+ target device or simulator
-
 ### Installation
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/word-puzzle-game.git
-   cd word-puzzle-game
+   git clone https://github.com/itkhld1/WhatAmI-.git
+   cd WhatAmI-
+
+---
