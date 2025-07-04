@@ -4,6 +4,28 @@ An interactive and customizable word puzzle game built using **Swift**, **SwiftU
 
 ---
 
+## 📷 Screenshots
+
+<p float="left">
+  <img width="160" src="ScreenShots/Simulator Screenshot - iPhone 15 Pro - 2025-07-04 at 14.05.32.png">
+  <img width="160" src="ScreenShots/Simulator Screenshot - iPhone 15 Pro - 2025-07-04 at 14.05.43.png">
+  <img width="160" src="ScreenShots/Simulator Screenshot - iPhone 15 Pro - 2025-07-04 at 14.05.49.png">
+  <img width="160" src="ScreenShots/Simulator Screenshot - iPhone 15 Pro - 2025-07-04 at 14.05.53.png">
+  <img width="160" src="ScreenShots/Simulator Screenshot - iPhone 15 Pro - 2025-07-04 at 14.07.48.png">
+  <img width="160" src="ScreenShots/Simulator Screenshot - iPhone 15 Pro - 2025-07-04 at 14.05.59.png">
+  <img width="160" src="ScreenShots/Simulator Screenshot - iPhone 15 Pro - 2025-07-04 at 14.06.02.png">
+  <img width="160" src="ScreenShots/Simulator Screenshot - iPhone 15 Pro - 2025-07-04 at 14.06.08.png">
+  <img width="160" src="ScreenShots/Simulator Screenshot - iPhone 15 Pro - 2025-07-04 at 14.06.12.png">
+  <img width="160" src="ScreenShots/Simulator Screenshot - iPhone 15 Pro - 2025-07-04 at 14.06.17.png">
+  <img width="160" src="ScreenShots/Simulator Screenshot - iPhone 15 Pro - 2025-07-04 at 14.08.20.png">
+  <img width="160" src="ScreenShots/Simulator Screenshot - iPhone 15 Pro - 2025-07-04 at 14.06.24.png">
+  <img width="160" src="ScreenShots/Simulator Screenshot - iPhone 15 Pro - 2025-07-04 at 14.07.18.png">  
+  <img width="160" src="ScreenShots/Simulator Screenshot - iPhone 15 Pro - 2025-07-04 at 14.08.13.png">
+  <img width="160" src="ScreenShots/Simulator Screenshot - iPhone 15 Pro - 2025-07-04 at 14.09.14.png">
+</p>
+
+---
+
 ## 🎮 Features
 
 - ⏱️ **Built-in Timer Challenge**  
